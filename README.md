@@ -1,11 +1,11 @@
-# 🏥 Disease Prediction Using Machine Learning
+#  Disease Prediction Using Machine Learning
 
 This project is a **Machine Learning-based Disease Prediction System** built using Python and deployed with **Streamlit**.
 It predicts the likelihood of a disease based on user input features such as medical parameters.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Predict disease based on user inputs
 * Interactive web interface using Streamlit
@@ -14,7 +14,7 @@ It predicts the likelihood of a disease based on user input features such as med
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 * Python 🐍
 * Pandas & NumPy
@@ -23,7 +23,7 @@ It predicts the likelihood of a disease based on user input features such as med
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── app.py              # Streamlit application
@@ -34,7 +34,7 @@ It predicts the likelihood of a disease based on user input features such as med
 
 ---
 
-## ⚙️ Installation & Setup
+##   Installation & Setup
 
 ### 1️⃣ Clone the repository
 
@@ -61,7 +61,7 @@ streamlit run app.py
 
 ---
 
-## 💻 Usage
+##  Usage
 
 1. Enter the required medical details in the input fields
 2. Click on the **Predict** button
@@ -69,7 +69,7 @@ streamlit run app.py
 
 ---
 
-## 📊 Model Information
+##  Model Information
 
 * Algorithm: (e.g., Random Forest / Logistic Regression / SVM)
 * Trained on medical dataset
@@ -77,7 +77,7 @@ streamlit run app.py
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 This app can be deployed easily using:
 
@@ -85,9 +85,13 @@ This app can be deployed easily using:
 * Render
 * Heroku
 
+ Deploye link - https://disease-prediction-model-using-ml-tsjzzy4z7tucm7qzdus6fq.streamlit.app/
+  
+
+
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots 
 <img width="1600" height="753" alt="WhatsApp Image 2026-05-01 at 4 11 49 PM" src="https://github.com/user-attachments/assets/03c549fd-af1d-4b80-8fb7-4b3fce6f57f4" />
 
 
